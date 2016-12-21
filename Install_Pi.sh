@@ -38,6 +38,6 @@ npm install rpio
 #sudo dpkg -i node_latest_armhf.deb
 #sudo apt-get install libx11-dev
 #git clone https://github.com/microsoft/vscode
-cd vscode
-./scripts/npm.sh install --arch=armhf
+# cd vscode
+# ./scripts/npm.sh install --arch=armhf
 # zum Starten: " ./scripts/code.sh " eintippen (selben Ordner) 
